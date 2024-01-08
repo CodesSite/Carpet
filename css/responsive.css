@@ -1,0 +1,24 @@
+@media screen and (max-device-width: 768px){
+	.number h1, .number p{
+		color: #FFF;
+		font-size: 12px;
+	}
+
+	.slogen{ display: none }
+
+	.sleg{ 
+		font-size: 50px; 
+	}
+
+	.icon-text{ display: none;}
+
+	.about{
+		text-align: center;
+	}
+
+	.content-about h1{ font-size: 32px;}
+
+	.present{
+		text-align: center;
+	} 
+}
